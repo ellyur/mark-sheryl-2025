@@ -68,7 +68,6 @@ const Index = () => {
           <HeroSection audioRef={audioRef} />
         <InvitationRevealSection />
         <CountdownSection />
-        <SaveTheDateVideoSection />
         <ImageLoop />
         <StorySection />
         <ScrollTriggeredTimeline />
@@ -82,6 +81,7 @@ const Index = () => {
           alt="Stephen & Sheryl Wedding Cover 2"
         />
         <DressCodeSection />
+        <SaveTheDateVideoSection />
         <HashtagGiftsSection />
         <RSVPSection />
         <MemorableMomentsSection />

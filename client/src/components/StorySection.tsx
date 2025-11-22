@@ -41,15 +41,15 @@ const StorySection = () => {
                 A decade ago, fate brought us together at an MMA event—he stood in the spotlight as the main event fighter, while I was a sports journalism intern covering the action. I interviewed him after his victory and that one post-fight interview turned into a lifelong connection.
               </p>
               <div>
-                <h3 className="font-script italic text-primary text-xl mb-3">God's perfect time</h3>
-                <p className="text-lg leading-relaxed text-foreground/80">
-                  Rooted in love and strengthened by time. With each passing year, our bond deepened and our dreams grew. Now, we step into marriage with full hearts and grateful spirits.
-                </p>
-              </div>
-              <div>
                 <h3 className="font-script italic text-primary text-xl mb-3">Distance and perseverance</h3>
                 <p className="text-lg leading-relaxed text-foreground/80">
                   When I (bride) worked overseas, distance became part of our journey. Yet through every challenge, our hearts stayed true and our love remained strong.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-script italic text-primary text-xl mb-3">God's perfect time</h3>
+                <p className="text-lg leading-relaxed text-foreground/80">
+                  Rooted in love and strengthened by time. With each passing year, our bond deepened and our dreams grew. Now, we step into marriage with full hearts and grateful spirits.
                 </p>
               </div>
             </div>

@@ -11,6 +11,7 @@ import DressCodeSection from '@/components/DressCodeSection';
 import HashtagGiftsSection from '@/components/HashtagGiftsSection';
 import EntourageSection from '@/components/EntourageSection';
 import RSVPSection from '@/components/RSVPSection';
+import SaveTheDateVideoSection from '@/components/SaveTheDateVideoSection';
 import MemorableMomentsSection from '@/components/MemorableMomentsSection';
 import FAQSection from '@/components/FAQSection';
 import Footer from '@/components/Footer';
@@ -67,6 +68,7 @@ const Index = () => {
           <HeroSection audioRef={audioRef} />
         <InvitationRevealSection />
         <CountdownSection />
+        <SaveTheDateVideoSection />
         <ImageLoop />
         <StorySection />
         <ScrollTriggeredTimeline />

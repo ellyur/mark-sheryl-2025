@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ChevronDown, ChevronUp, Camera, Clock, Users, MessageCircle, MapPin, Gift, Shirt, Calendar, Music, Utensils } from 'lucide-react';
+import { ChevronDown, ChevronUp, Camera, Clock, Users, MessageCircle, MapPin, Gift, Shirt } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const FAQSection = () => {
@@ -73,26 +73,6 @@ const FAQSection = () => {
       question: "Can I take photos during the reception?",
       icon: Camera,
       answer: "Yes, please do! Snap away during cocktail hour and the reception, and share your favorite memories using our official hashtags: #ShehSubmittedStephensHeart #DecemberTitleFight"
-    },
-    {
-      question: "Will there be food and drinks at the reception?",
-      icon: Utensils,
-      answer: "Absolutely! We'll have a full reception with delicious food and refreshments for all our guests. If you have any dietary restrictions or allergies, please let us know when you RSVP."
-    },
-    {
-      question: "What is the timeline for the wedding day?",
-      icon: Calendar,
-      answer: "Please check the Timeline section on our website for a detailed schedule of events for the day, from the ceremony to the reception."
-    },
-    {
-      question: "Will there be music and dancing?",
-      icon: Music,
-      answer: "Yes! We'll have music throughout the reception and a dance floor for everyone to enjoy. Get ready to dance the night away with us!"
-    },
-    {
-      question: "How can I contact you if I have more questions?",
-      icon: MessageCircle,
-      answer: "If you have any other questions not covered here, feel free to reach out to us directly. Our contact information is available in the footer section of this website."
     }
   ];
 

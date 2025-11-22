@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 import { Menu, X } from 'lucide-react';
 
 const Navigation = () => {
-  const logoUrl = "https://res.cloudinary.com/dmsfwzg3d/image/upload/v1763789858/image-removebg-preview_gl0fm3.png";
+  const logoUrl = "https://res.cloudinary.com/dtmf76nn1/image/upload/v1763821843/image-removebg-preview_c8bcys.png";
   const [isOpen, setIsOpen] = useState(false);
   const [activeSection, setActiveSection] = useState('');
   const [isVisible, setIsVisible] = useState(false);
@@ -36,12 +36,12 @@ const Navigation = () => {
         }
         return false;
       });
-      
+
       if (currentSection) {
         setActiveSection(currentSection);
       }
     };
-    
+
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
@@ -49,12 +49,12 @@ const Navigation = () => {
   const scrollToSection = (href: string) => {
     const sectionId = href.slice(1); // Remove the # from the href
     const element = document.getElementById(sectionId);
-    
+
     if (element) {
       // Calculate the offset for the fixed navigation
       const navHeight = 64; // Approximate navigation height
       const elementTop = element.offsetTop - navHeight;
-      
+
       // Smooth scroll to the element
       window.scrollTo({
         top: Math.max(0, elementTop),
@@ -67,7 +67,7 @@ const Navigation = () => {
         const navHeight = 64;
         const rect = fallbackElement.getBoundingClientRect();
         const elementTop = rect.top + window.pageYOffset - navHeight;
-        
+
         window.scrollTo({
           top: Math.max(0, elementTop),
           behavior: 'smooth'
@@ -94,8 +94,8 @@ const Navigation = () => {
           <div className="flex-shrink-0">
             <img 
               src={logoUrl} 
-              alt="P&D Logo" 
-              className="h-12 w-auto"
+              alt="Wedding Logo" 
+              className="h-10 w-10 object-contain"
             />
           </div>
 

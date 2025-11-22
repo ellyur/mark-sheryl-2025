@@ -1,8 +1,6 @@
 import { motion } from 'framer-motion';
 import { optimizeCloudinaryUrl } from '@/lib/cloudinaryOptimize';
 const principalSponsorsImage = 'https://res.cloudinary.com/dtmf76nn1/image/upload/v1763820190/1f5a15d3-85c2-4d77-aed4-d12efcfef2bd.png';
-import flower9 from '@assets/flower9_1759741371017.png';
-import flower3 from '@assets/flower3_1759741371015.png';
 const guestsImage = 'https://res.cloudinary.com/dmsfwzg3d/image/upload/v1763785167/guests_llnq14.jpg';
 
 const DressCodeSection = () => {
@@ -55,9 +53,6 @@ const DressCodeSection = () => {
             whileHover={{ scale: 1.02 }}
           >
             <div className="bg-white shadow-teal border border-primary/20 rounded-xl p-8 hover-elegant transition-all duration-500 h-full relative">
-              {/* Flower Decoration */}
-              <img src={flower9} alt="" className="absolute top-2 right-2 w-16 md:w-20 opacity-80" />
-              
               <div className="text-center">
                 <motion.div
                   initial={{ scale: 0.8 }}
@@ -97,9 +92,6 @@ const DressCodeSection = () => {
             whileHover={{ scale: 1.02 }}
           >
             <div className="bg-white shadow-teal border border-primary/20 rounded-xl p-8 hover-elegant transition-all duration-500 h-full relative">
-              {/* Flower Decoration */}
-              <img src={flower3} alt="" className="absolute top-2 left-2 w-20 md:w-24 opacity-80 transform -rotate-12" />
-              
               <div className="text-center">
                 <motion.div
                   initial={{ scale: 0.8 }}

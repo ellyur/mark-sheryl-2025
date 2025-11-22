@@ -123,16 +123,6 @@ const VenueSection = () => {
                       <p className="text-sm font-body text-foreground/80 italic" data-testid={`text-${venue.title.toLowerCase()}-details`}>
                         {venue.details}
                       </p>
-                      
-                      {/* Distance and Perseverance - Highlighted */}
-                      <div className="mt-6 bg-primary/10 border-2 border-primary/30 rounded-lg p-5 shadow-sm">
-                        <h5 className="font-script italic text-primary text-xl mb-3 text-center" data-testid="text-distance-perseverance-title">
-                          Distance and perseverance
-                        </h5>
-                        <p className="text-sm font-body text-foreground/90 leading-relaxed text-center" data-testid="text-distance-perseverance-message">
-                          When I (bride) worked overseas, distance became part of our journey. Yet through every challenge, our hearts stayed true and our love remained strong.
-                        </p>
-                      </div>
                     </div>
 
                     {/* Right Column - Map */}

@@ -46,6 +46,12 @@ const StorySection = () => {
                   Rooted in love and strengthened by time. With each passing year, our bond deepened and our dreams grew. Now, we step into marriage with full hearts and grateful spirits.
                 </p>
               </div>
+              <div>
+                <h3 className="font-script italic text-primary text-xl mb-3">Distance and perseverance</h3>
+                <p className="text-lg leading-relaxed text-foreground/80">
+                  When I (bride) worked overseas, distance became part of our journey. Yet through every challenge, our hearts stayed true and our love remained strong.
+                </p>
+              </div>
             </div>
 
             {/* Decorative Rose - Bottom Right */}

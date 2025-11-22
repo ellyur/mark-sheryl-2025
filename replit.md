@@ -22,8 +22,8 @@ The application is a full-stack JavaScript project using a React frontend with T
 - **Vite**: Frontend build tool.
 
 ## Recent Changes
-- **2025-11-22**: Complete content overhaul for Mark & Sheryl's wedding:
-  - Updated all components with new couple names "Mark Stephen" and "Sheryl Grace"
+- **2025-11-22**: Complete content overhaul for Stephen & Sheryl's wedding:
+  - Updated all components with new couple names "Stephen" and "Sheryl Grace"
   - Changed wedding date to December 20, 2025 at 10:00 AM
   - Updated venue to Easter College Gymnasium:
     - Location: 34 Easter Road, Guisad Central, 2600 Baguio City

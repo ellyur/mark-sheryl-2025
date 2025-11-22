@@ -73,7 +73,7 @@ const EntourageSection = () => {
       "Kiesha Aimee Bugnosen",
       "Jhonah Grace Nabehet",
       "Zinnia Biag",
-      "Cristy Zhea Carrio",
+      "Cristy Zhea Cariño",
       "Crysvianna Panes"
     ],
     groomsmen: [

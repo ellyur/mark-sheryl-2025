@@ -169,7 +169,7 @@ const EntourageSection = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8, ease: "easeOut", delay: 8.9 }}
         >
-          <p className="text-sm md:text-base font-telma text-foreground">And with their beloved parents</p>
+          <p className="text-sm md:text-base font-telma text-foreground">And with our beloved parents</p>
         </motion.div>
 
         {/* Parents */}

@@ -100,7 +100,8 @@ const EntourageSection = () => {
           "Kyrie Sophia Loman",
           "Yola Mariann Jimenez",
           "Audrie Therese Cuchapin",
-          "Tya Ma. Claire Jimenez"
+          "Tya Ma. Claire Jimenez",
+          "Inarah Zipporah Gavan"
         ]
       }
     }

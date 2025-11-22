@@ -19,7 +19,7 @@ const HeroSection = ({ audioRef }: HeroSectionProps) => {
       {/* Background Image */}
       <img
         src={heroImage}
-        alt="Mark & Sheryl"
+        alt="Stephen & Sheryl"
         className="absolute inset-0 w-full h-full object-cover"
         data-testid="hero-image"
       />
@@ -39,7 +39,7 @@ const HeroSection = ({ audioRef }: HeroSectionProps) => {
           {animationsEnabled ? (
             <TypeAnimation
               sequence={[
-                'MARK & SHERYL',
+                'STEPHEN & SHERYL',
                 () => {
                   setShowElements(true);
                 }
@@ -60,7 +60,7 @@ const HeroSection = ({ audioRef }: HeroSectionProps) => {
               }}
               className="typewriter-text"
             >
-              MARK & SHERYL
+              STEPHEN & SHERYL
             </span>
           )}
         </h1>

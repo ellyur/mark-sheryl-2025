@@ -1,7 +1,7 @@
 # Wedding Invitation Website
 
 ## Overview
-This project is a full-stack JavaScript application for a wedding invitation website for Mark Stephen and Sheryl Grace, celebrating their wedding on December 20, 2025 at Easter College Gymnasium in Baguio City, Philippines. It features a responsive, interactive, and modern design with multiple sections including hero, slideshow, invitation details, countdown, story, venue, RSVP, and more. The website aims to provide an elegant and engaging experience for wedding guests. Key capabilities include background music with user interaction, countdown timer, venue details with Google Maps integration, and SEO optimization.
+This project is a full-stack JavaScript application for a wedding invitation website for Stephen and Sheryl Grace, celebrating their wedding on December 20, 2025 at Easter College Gymnasium in Baguio City, Philippines. It features a responsive, interactive, and modern design with multiple sections including hero, slideshow, invitation details, countdown, story, venue, RSVP, and more. The website aims to provide an elegant and engaging experience for wedding guests. Key capabilities include background music with user interaction, countdown timer, venue details with Google Maps integration, and SEO optimization.
 
 ## User Preferences
 - Background music should play automatically when clicking "Open Invitation" with NO control buttons

@@ -131,29 +131,12 @@ const DressCodeSection = () => {
           </motion.div>
         </div>
 
-        {/* Important Reminders */}
-        <motion.div 
-          className="mb-16"
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, ease: "easeOut", delay: 8.7 }}
-        >
-          <div className="bg-white shadow-teal border border-primary/20 rounded-xl p-8">
-            <h3 className="text-xl font-body font-medium text-foreground mb-4 text-center">
-              Important Reminders
-            </h3>
-            <p className="text-sm text-foreground text-center leading-relaxed">
-              In keeping with the formality of the event, we kindly ask that guests refrain from wearing jeans, denim, slippers or rubber shoes.
-            </p>
-          </div>
-        </motion.div>
-
         {/* Guests Color Palette */}
         <motion.div 
           className="mb-16"
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, ease: "easeOut", delay: 9.1 }}
+          transition={{ duration: 0.8, ease: "easeOut", delay: 8.7 }}
         >
           <div className="bg-card/30 border border-border rounded-xl p-8 shadow-soft hover-elegant transition-all duration-500">
             <h3 className="text-xl font-body font-medium text-foreground mb-6 text-center">
@@ -173,6 +156,23 @@ const DressCodeSection = () => {
                 </div>
               ))}
             </div>
+          </div>
+        </motion.div>
+
+        {/* Important Reminders */}
+        <motion.div 
+          className="mb-16"
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, ease: "easeOut", delay: 9.1 }}
+        >
+          <div className="bg-white shadow-teal border border-primary/20 rounded-xl p-8">
+            <h3 className="text-xl font-body font-medium text-foreground mb-4 text-center">
+              Important Reminders
+            </h3>
+            <p className="text-sm text-foreground text-center leading-relaxed">
+              We kindly ask all guests to arrive on time and remain present throughout the entire ceremony and reception to share in the joy and celebration of our special day.
+            </p>
           </div>
         </motion.div>
 

@@ -204,7 +204,7 @@ const EntourageSection = () => {
         >
           <div className="max-w-4xl mx-auto space-y-2 text-center">
             <p className="text-xs md:text-base lg:text-lg font-telma text-foreground">
-              <span className="font-bold">Officiating Pastor:</span> {entourageData.officiating.pastor}
+              <span className="font-bold">Officiating Minister:</span> {entourageData.officiating.pastor}
             </p>
             <p className="text-xs md:text-base lg:text-lg font-telma text-foreground">
               <span className="font-bold">Wedding Vocalist:</span> {entourageData.officiating.vocalist}

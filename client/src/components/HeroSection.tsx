@@ -39,7 +39,7 @@ const HeroSection = ({ audioRef }: HeroSectionProps) => {
           {animationsEnabled ? (
             <TypeAnimation
               sequence={[
-                'MARK & SHERYL',
+                'STEPHEN & SHERYL',
                 () => {
                   setShowElements(true);
                 }
@@ -60,7 +60,7 @@ const HeroSection = ({ audioRef }: HeroSectionProps) => {
               }}
               className="typewriter-text"
             >
-              MARK & SHERYL
+              STEPHEN & SHERYL
             </span>
           )}
         </h1>

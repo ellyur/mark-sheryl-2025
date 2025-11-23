@@ -43,5 +43,6 @@ The application is a full-stack JavaScript project using a React frontend with T
   - Updated love story section with MMA-themed narrative
   - Updated gift guide with monetary gift wording and Snap & Share section
   - Updated RSVP link to https://stephen-and-sheryl-2025.vercel.app/
+  - Fixed all meta tags and URLs to use https://stephen-and-sheryl-2025.vercel.app/
   - Verified zero residual references to old wedding data through comprehensive search
 

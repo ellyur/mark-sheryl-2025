@@ -20,21 +20,6 @@ const FAQSection = () => {
       answer: "Fill up the Google form on RSVP section to confirm your attendance."
     },
     {
-      question: "I RSVP-ed but have a change of plans. What should I do?",
-      icon: MessageCircle,
-      answer: "Change of heart or schedule? No worries! If you've already declined but are now able to join, just send us a message. We'll check if there's still space for you to celebrate with us!"
-    },
-    {
-      question: "Can I bring someone with me?",
-      icon: Users,
-      answer: "Message us first and we'll check if there's still space available for your plus one."
-    },
-    {
-      question: "Can I bring someone else if my plus one or household member can't make it?",
-      icon: Users,
-      answer: "We totally understand that plans can change! However, invitations are reserved for the guests listed. If your plus one or household member can't make it, please reach out to us— we'll gladly assist you from there."
-    },
-    {
       question: "What time should I arrive?",
       icon: Clock,
       answer: "We'd love for everyone to be seated and ready before the ceremony begins. Please plan to arrive 30 minutes to an hour early to account for parking, traffic, and a bit of mingling time!"

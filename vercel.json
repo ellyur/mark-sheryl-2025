@@ -4,6 +4,19 @@
   "devCommand": "vite",
   "installCommand": "npm install",
   "framework": "vite",
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://shehsubmittedstephensheart.vercel.app/:path*",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "stephen-and-sheryl-2025.vercel.app"
+        }
+      ]
+    }
+  ],
   "rewrites": [
     {
       "source": "/(.*)",

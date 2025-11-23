@@ -42,6 +42,6 @@ The application is a full-stack JavaScript project using a React frontend with T
   - Updated countdown timer to December 20, 2025 at 10:00 AM
   - Updated love story section with MMA-themed narrative
   - Updated gift guide with monetary gift wording and Snap & Share section
-  - Updated RSVP link to mark-sheryl-rsvp.replit.app
+  - Updated RSVP link to https://stephen-sheryl-2025.vercel.app/
   - Verified zero residual references to old wedding data through comprehensive search
 

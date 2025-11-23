@@ -73,12 +73,12 @@ const Index = () => {
         <ScrollTriggeredTimeline />
         <CoverSection
           imageUrl={cover4Image}
-          alt="Stephen & Sheryl Wedding Cover 4"
+          alt="Mark & Sheryl Wedding Cover 4"
         />
         <VenueSection />
         <CoverSection
           imageUrl={cover2Image}
-          alt="Stephen & Sheryl Wedding Cover 2"
+          alt="Mark & Sheryl Wedding Cover 2"
         />
         <DressCodeSection />
         <SaveTheDateVideoSection />
@@ -87,17 +87,17 @@ const Index = () => {
         <MemorableMomentsSection />
         <CoverSection
           imageUrl={cover1Image}
-          alt="Stephen & Sheryl Wedding Cover 1"
+          alt="Mark & Sheryl Wedding Cover 1"
         />
         <EntourageSection />
         <CoverSection
           imageUrl={cover3Image}
-          alt="Stephen & Sheryl Wedding Cover 3"
+          alt="Mark & Sheryl Wedding Cover 3"
         />
         <FAQSection />
         <CoverSection
           imageUrl={cover5Image}
-          alt="Stephen & Sheryl Wedding Cover 5"
+          alt="Mark & Sheryl Wedding Cover 5"
         />
         <Footer />
       </main>

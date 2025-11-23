@@ -59,7 +59,7 @@ const EntourageSection = () => {
     secondarySponsors: {
       title: "Secondary Sponsors",
       roles: [
-        { role: "Candle", subtitle: "To light our path", names: ["Stephen Rayne Loman", "Janine Loman"] },
+        { role: "Candle", subtitle: "To light our path", names: ["Mark Rayne Loman", "Janine Loman"] },
         { role: "Veil", subtitle: "To clothe us as one", names: ["Jeremy Pacatiw", "Marjorie Pacatiw"] },
         { role: "Cord", subtitle: "To bind us together", names: ["Joshua Pacio", "Annalyn Balungay"] }
       ]

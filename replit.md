@@ -1,7 +1,7 @@
 # Wedding Invitation Website
 
 ## Overview
-This project is a full-stack JavaScript application for a wedding invitation website for Stephen and Sheryl Grace, celebrating their wedding on December 20, 2025 at Easter College Gymnasium in Baguio City, Philippines. It features a responsive, interactive, and modern design with multiple sections including hero, slideshow, invitation details, countdown, story, venue, RSVP, and more. The website aims to provide an elegant and engaging experience for wedding guests. Key capabilities include background music with user interaction, countdown timer, venue details with Google Maps integration, and SEO optimization.
+This project is a full-stack JavaScript application for a wedding invitation website for Mark and Sheryl Grace, celebrating their wedding on December 20, 2025 at Easter College Gymnasium in Baguio City, Philippines. It features a responsive, interactive, and modern design with multiple sections including hero, slideshow, invitation details, countdown, story, venue, RSVP, and more. The website aims to provide an elegant and engaging experience for wedding guests. Key capabilities include background music with user interaction, countdown timer, venue details with Google Maps integration, and SEO optimization.
 
 ## User Preferences
 - Background music should play automatically when clicking "Open Invitation" with NO control buttons
@@ -22,8 +22,8 @@ The application is a full-stack JavaScript project using a React frontend with T
 - **Vite**: Frontend build tool.
 
 ## Recent Changes
-- **2025-11-22**: Complete content overhaul for Stephen & Sheryl's wedding:
-  - Updated all components with new couple names "Stephen" and "Sheryl Grace"
+- **2025-11-22**: Complete content overhaul for Mark & Sheryl's wedding:
+  - Updated all components with new couple names "Mark" and "Sheryl Grace"
   - Changed wedding date to December 20, 2025 at 10:00 AM
   - Updated venue to Easter College Gymnasium:
     - Location: 34 Easter Road, Guisad Central, 2600 Baguio City
